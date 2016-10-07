@@ -7,6 +7,6 @@
 <title></title> 
 </head>
 <body>
-<H1>Github 실습3</H1>
+<H1>바보 멍충이 말미잘 해삼 멍게</H1>
 </body>
 </html>
